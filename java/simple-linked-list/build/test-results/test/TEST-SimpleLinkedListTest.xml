@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleLinkedListTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-12-25T00:09:37" hostname="Fartazs-MacBook-Air.local" time="0.075">
+  <properties/>
+  <testcase name="canReturnListAsArray" classname="SimpleLinkedListTest" time="0.059"/>
+  <testcase name="reverseReversesList" classname="SimpleLinkedListTest" time="0.007"/>
+  <testcase name="canCreateFromArray" classname="SimpleLinkedListTest" time="0.001"/>
+  <testcase name="canReturnEmptyListAsEmptyArray" classname="SimpleLinkedListTest" time="0.0"/>
+  <testcase name="popOnEmptyListWillThrow" classname="SimpleLinkedListTest" time="0.002"/>
+  <testcase name="popReturnsLastAddedElement" classname="SimpleLinkedListTest" time="0.0"/>
+  <testcase name="aNewListIsEmpty" classname="SimpleLinkedListTest" time="0.0"/>
+  <system-out><![CDATA[5
+5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

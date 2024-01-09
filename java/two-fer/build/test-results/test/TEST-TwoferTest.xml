@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TwoferTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-24T23:56:25" hostname="Fartazs-MacBook-Air.local" time="0.054">
+  <properties/>
+  <testcase name="noNameGiven" classname="TwoferTest" time="0.042"/>
+  <testcase name="aNameGiven" classname="TwoferTest" time="0.011"/>
+  <testcase name="anotherNameGiven" classname="TwoferTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
